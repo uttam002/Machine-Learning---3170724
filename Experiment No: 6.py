@@ -45,3 +45,11 @@ plt.ylabel('Actual')
 plt.xlabel('Predicted')
 plt.title('Confusion Matrix')
 plt.show()
+
+# Output
+
+# Results:
+# Metric    Precision: 0.96
+# Metric    Recall: 0.95
+# Metric    F1 Score: 0.95
+# Metric    Accuracy: 0.96
