@@ -37,3 +37,11 @@ plt.xticks(k_values)
 plt.ylim(0, 1)  # Set y-axis from 0 to 1
 plt.grid()
 plt.show()
+
+# output
+# Value of k    Accuracy of model
+#   1             0.9667
+
+#   3             0.9667
+#   5             0.9667
+#   7             0.9667
